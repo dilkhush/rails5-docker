@@ -1,0 +1,2 @@
+CREATE USER dilkhush;
+ALTER USER dilkhush WITH SUPERUSER;
